@@ -1,0 +1,79 @@
+kavyasreebvs@kavyasreebvs-Inspiron-5520:~/629/629-Course-Project$ python test_sparse_algo3_in.py 
+no_of_vertices: 5000
+Sparse graph generated. edge_count = 20000
+It took 9.18241691589 seconds to generate the graph.
+Testing starts
+
+1.29585886002 0.103907823563 1.7050819397
+0.688586950302 0.0238778591156 1.68567013741
+2.12966799736 0.156453132629 1.75154399872
+2.00857615471 0.122575998306 1.68430900574
+2.30888795853 0.179508924484 1.67830491066
+
+time1 avg sparse =  1.68631381989 seconds.
+time2 avg sparse =  0.117262983322 seconds.
+time3 avg sparse =  1.70097823143 seconds.
+kavyasreebvs@kavyasreebvs-Inspiron-5520:~/629/629-Course-Project$ python test_sparse_algo3_in.py 
+
+no_of_vertices: 5000
+Sparse graph generated. edge_count = 20000
+It took 9.37444186211 seconds to generate the graph.
+Testing starts
+
+2.07445788383 0.110395908356 1.81335997581
+1.22954392433 0.134865999222 1.81041097641
+1.50226092339 0.0136389732361 1.81070303917
+0.475821018219 0.110994100571 1.82918596268
+1.74062490463 0.0643558502197 1.85237598419
+
+time1 avg sparse =  1.40453996658 seconds.
+time2 avg sparse =  0.086848783493 seconds.
+time3 avg sparse =  1.82320461273 seconds.
+kavyasreebvs@kavyasreebvs-Inspiron-5520:~/629/629-Course-Project$ python test_sparse_algo3_in.py 
+
+no_of_vertices: 5000
+Sparse graph generated. edge_count = 20000
+It took 30.8297069073 seconds to generate the graph.
+Testing starts
+
+5.69124007225 0.482742071152 3.94539284706
+2.03948998451 0.120426177979 2.56832814217
+2.62512183189 0.155714035034 2.53020596504
+1.15996313095 0.0457179546356 2.56587314606
+0.132581949234 0.1685359478 2.53654718399
+
+time1 avg sparse =  2.32967219353 seconds.
+time2 avg sparse =  0.194619607925 seconds.
+time3 avg sparse =  2.82925987244 seconds.
+kavyasreebvs@kavyasreebvs-Inspiron-5520:~/629/629-Course-Project$ python test_sparse_algo3_in.py 
+
+no_of_vertices: 5000
+Sparse graph generated. edge_count = 20000
+It took 18.597205162 seconds to generate the graph.
+Testing starts
+
+0.347531080246 0.317322969437 4.37522792816
+1.58342289925 0.0286641120911 2.45870304108
+0.981042146683 0.0972678661346 2.50493907928
+1.91261291504 0.003005027771 2.55898594856
+1.5029001236 0.09898686409 2.40781402588
+
+time1 avg sparse =  1.26549501419 seconds.
+time2 avg sparse =  0.109042358398 seconds.
+time3 avg sparse =  2.8611228466 seconds.
+kavyasreebvs@kavyasreebvs-Inspiron-5520:~/629/629-Course-Project$ python test_sparse_algo3_in.py 
+
+no_of_vertices: 5000
+Sparse graph generated. edge_count = 20000
+It took 18.6965749264 seconds to generate the graph.
+Testing starts
+
+2.11110305786 0.0919289588928 2.50153589249
+0.188507080078 0.0672240257263 2.52107810974
+0.245522022247 0.0823738574982 3.36858201027
+1.31175303459 0.0818960666656 1.8186609745
+1.24604821205 0.0860230922699 1.82643890381
+
+time1 avg sparse =  1.02058148384 seconds.
+time2 avg sparse =  0.0818834781647 seconds.
+time3 avg sparse =  2.40725302696 seconds.
