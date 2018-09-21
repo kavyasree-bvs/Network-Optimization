@@ -1,7 +1,7 @@
 # Network-Optimization
 Implemented a network routing protocol using heap, Dijkstra's algorithm, and Kruskal's algorithm.
 
-CSCE 629: COURSE PROJECT
+CSCE 629 (Artificial Intelligence) Course Project
 
 By: Venkata Satya Kavya Sree Bondapalli
 
